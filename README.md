@@ -123,23 +123,23 @@ if __name__ == "__main__":
 ![]()
 
 ## ENCENDIDO
-![]()
+![](3.jpeg)
 > APP
 
-![]()
+![](5.jpeg)
 > Circuito
 
-![]()
+![](7.PNG)
 > Consola
 
 ## Apagado
-![]()
+![](4.jpeg)
 > APP
 
-![]()
+![](6.jpeg)
 > Circuito
 
-![]()
+![](8.PNG)
 > Consola
 
 ## Código - Libreria ble_advertising
