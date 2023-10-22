@@ -120,7 +120,7 @@ if __name__ == "__main__":
 
 ```
 ## Curcuito
-![]()
+![](9.PNG)
 
 ## ENCENDIDO
 ![](3.jpeg)
